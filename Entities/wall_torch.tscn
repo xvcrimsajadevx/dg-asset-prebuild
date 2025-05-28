@@ -986,26 +986,26 @@ animations = [{
 [node name="Yellow" type="AnimatedSprite2D" parent="."]
 visible = false
 sprite_frames = SubResource("SpriteFrames_5kcda")
-animation = &"wall_yes"
-frame_progress = 0.344577
+animation = &"wall_no"
+frame_progress = 0.370841
 
 [node name="Blue" type="AnimatedSprite2D" parent="."]
 visible = false
 sprite_frames = SubResource("SpriteFrames_wvk64")
-animation = &"wall_yes"
-frame_progress = 0.842372
+animation = &"wall_no"
+frame_progress = 0.206974
 
 [node name="Green" type="AnimatedSprite2D" parent="."]
 visible = false
 sprite_frames = SubResource("SpriteFrames_g5bwb")
-animation = &"wall_yes"
-frame_progress = 0.922365
+animation = &"wall_no"
+frame_progress = 0.544244
 
 [node name="Red" type="AnimatedSprite2D" parent="."]
 visible = false
 sprite_frames = SubResource("SpriteFrames_1te2g")
 animation = &"wall_no"
-frame_progress = 0.736026
+frame_progress = 0.772133
 
 [node name="Off" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_1ydqo")
